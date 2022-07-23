@@ -1,0 +1,4 @@
+001110010110 110001101001
+Gamma rate: 918
+Epsilon rate: 3177
+Power consumption: 2916486
